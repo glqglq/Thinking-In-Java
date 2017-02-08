@@ -1,4 +1,4 @@
-package ch02.Examples;
+package ch02.Exercises.DocTest;
 
 // object.DocTest.java
 // TIJ4 Chapter Object, Exercise 12, page 90
